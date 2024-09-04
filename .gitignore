@@ -1,0 +1,7 @@
+ignore all CPT files and dirs
+
+extensions/*
+saves/*
+templates/*
+PT.conf
+PT.conf.autosave
